@@ -19,7 +19,7 @@ Realtime chat application with NodeJS and ReactJS.
 
 ## Deployment
 - Heroku
-- Endpoint: https://hgb-vouchsg-challenge-1.herokuapp.com/
+- Demo: https://hgb-vouchsg-challenge-1.herokuapp.com/
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/61721550/140968262-aaa57d12-36fb-4b8e-baaa-e58c5ed1690f.png)
